@@ -1,0 +1,26 @@
+# Google and Gmail credentials
+credentials.json
+gmail_oauth_client.json
+gmail_token.json
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# Local backups
+*backup*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Downloaded learning materials
+Free AI Portfolio Projects.html
+Free AI Portfolio Projects_files/
