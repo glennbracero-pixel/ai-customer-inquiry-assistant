@@ -188,21 +188,22 @@ Credential files, OAuth tokens, API keys, and customer information must never be
 
 
 
-\## Project Screenshot
+## Project Status
 
+**Working local portfolio prototype.**
 
+This project demonstrates practical skills in Python automation, AI integration, Google Workspace APIs, workflow design, and human-in-the-loop automation.
+
+## Security Notice
+
+Credential files, OAuth tokens, API keys, and customer information must never be committed to a public repository.
+
+## Project Screenshot
 
 Here is a preview of the Google Sheets dashboard used by the AI Customer Inquiry Assistant.
 
-
-
-!\[Google Sheets Dashboard](screenshots/google-sheets.png)
-
-
+![Google Sheets Dashboard](screenshots/google-sheets.png)
 
 The dashboard stores customer inquiries and displays AI-generated categories, priorities, suggested replies, and processing statuses.
 
-
-
 Additional screenshots demonstrating AI-generated replies and Gmail draft creation will be added as the project documentation expands.
-
